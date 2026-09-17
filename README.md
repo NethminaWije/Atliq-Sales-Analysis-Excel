@@ -37,7 +37,7 @@ Country-level sales performance compared with the 2021 target.
 
 Top 10 products based on percentage increase in net sales from 2020 to 2021.
 
-![Top 10 Products](screenshots/top_10_products.png)
+![Top 10 Products](./screenshots/top_10_products.png)
 
 ### 3. Division Level Report
 
